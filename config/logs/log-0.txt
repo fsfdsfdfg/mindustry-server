@@ -1,0 +1,6 @@
+[12-31-2020 22:07:01] [I] Server loaded. Type 'help' for help.
+[12-31-2020 22:08:05] [I] Server loaded. Type 'help' for help.
+[12-31-2020 22:08:26] [I] Randomized next map to be Tendrils.
+[12-31-2020 22:08:26] [I] Loading map...
+[12-31-2020 22:08:27] [I] Map loaded.
+[12-31-2020 22:08:27] [I] Opened a server on port 6567.
